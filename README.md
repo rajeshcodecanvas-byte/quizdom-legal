@@ -1,1 +1,1 @@
-# quizdom-legal
+# qmaster-legal
